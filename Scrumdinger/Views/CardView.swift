@@ -14,6 +14,7 @@ struct CardView: View {
       Text(scrum.title)
         .font(.headline)
         .padding(10)
+        .padding(.bottom, -10)
         .accessibilityAddTraits(.isHeader)
       Spacer()
       HStack{
