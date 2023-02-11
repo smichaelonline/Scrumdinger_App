@@ -18,6 +18,7 @@
 		9BFA5AF02997AF0400A3ECD0 /* ScrumsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BFA5AEF2997AF0400A3ECD0 /* ScrumsView.swift */; };
 		9BFA5AF52997B60E00A3ECD0 /* DetailsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BFA5AF42997B60E00A3ECD0 /* DetailsView.swift */; };
 		9BFA5AF72997EEE900A3ECD0 /* DetailEditView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BFA5AF62997EEE900A3ECD0 /* DetailEditView.swift */; };
+		9BFA5AF92997F41000A3ECD0 /* ThemeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BFA5AF82997F40F00A3ECD0 /* ThemeView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,6 +34,7 @@
 		9BFA5AEF2997AF0400A3ECD0 /* ScrumsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumsView.swift; sourceTree = "<group>"; };
 		9BFA5AF42997B60E00A3ECD0 /* DetailsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsView.swift; sourceTree = "<group>"; };
 		9BFA5AF62997EEE900A3ECD0 /* DetailEditView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailEditView.swift; sourceTree = "<group>"; };
+		9BFA5AF82997F40F00A3ECD0 /* ThemeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThemeView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 				9BFA5AEF2997AF0400A3ECD0 /* ScrumsView.swift */,
 				9BFA5AF42997B60E00A3ECD0 /* DetailsView.swift */,
 				9BFA5AF62997EEE900A3ECD0 /* DetailEditView.swift */,
+				9BFA5AF82997F40F00A3ECD0 /* ThemeView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -190,6 +193,7 @@
 				9BFA5ADA2997A63900A3ECD0 /* MeetingView.swift in Sources */,
 				9BFA5AF52997B60E00A3ECD0 /* DetailsView.swift in Sources */,
 				9BFA5AD82997A63900A3ECD0 /* ScrumdingerApp.swift in Sources */,
+				9BFA5AF92997F41000A3ECD0 /* ThemeView.swift in Sources */,
 				9BFA5AEB2997AB4900A3ECD0 /* CardView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
