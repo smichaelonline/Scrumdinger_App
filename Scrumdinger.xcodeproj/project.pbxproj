@@ -21,6 +21,7 @@
 		9BFA5AF92997F41000A3ECD0 /* ThemeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BFA5AF82997F40F00A3ECD0 /* ThemeView.swift */; };
 		9BFA5AFB2997F4F800A3ECD0 /* ThemePicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BFA5AFA2997F4F800A3ECD0 /* ThemePicker.swift */; };
 		9BFA5AFD2998048800A3ECD0 /* MeetingHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BFA5AFC2998048800A3ECD0 /* MeetingHeaderView.swift */; };
+		9BFA5AFF2998083400A3ECD0 /* ScrumProgressViewStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BFA5AFE2998083400A3ECD0 /* ScrumProgressViewStyle.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -39,6 +40,7 @@
 		9BFA5AF82997F40F00A3ECD0 /* ThemeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThemeView.swift; sourceTree = "<group>"; };
 		9BFA5AFA2997F4F800A3ECD0 /* ThemePicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThemePicker.swift; sourceTree = "<group>"; };
 		9BFA5AFC2998048800A3ECD0 /* MeetingHeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeetingHeaderView.swift; sourceTree = "<group>"; };
+		9BFA5AFE2998083400A3ECD0 /* ScrumProgressViewStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumProgressViewStyle.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -110,6 +112,7 @@
 				9BFA5AF82997F40F00A3ECD0 /* ThemeView.swift */,
 				9BFA5AFA2997F4F800A3ECD0 /* ThemePicker.swift */,
 				9BFA5AFC2998048800A3ECD0 /* MeetingHeaderView.swift */,
+				9BFA5AFE2998083400A3ECD0 /* ScrumProgressViewStyle.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -192,6 +195,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				9BFA5AFB2997F4F800A3ECD0 /* ThemePicker.swift in Sources */,
+				9BFA5AFF2998083400A3ECD0 /* ScrumProgressViewStyle.swift in Sources */,
 				9BFA5AE92997AA3000A3ECD0 /* DailyScrum.swift in Sources */,
 				9BFA5AED2997AD2800A3ECD0 /* TrailingIconLabelStyle.swift in Sources */,
 				9BFA5AFD2998048800A3ECD0 /* MeetingHeaderView.swift in Sources */,
